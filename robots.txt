@@ -15,7 +15,5 @@
 
 User-agent: *
 # Directories
-Disallow: /css/
-Disallow: /js/
 Disallow: /fonts/
 Disallow: /img/
