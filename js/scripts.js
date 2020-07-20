@@ -23,7 +23,7 @@ window.onresize = function() {
 	}, 100);
 };
 
-var dateString = "1990-05-28";
+var dateString = "1990-06-21";
 $('#age').html(calcAge(dateString)+'YO');
 function calcAge(dateString) {
   var birthday = +new Date(dateString);
